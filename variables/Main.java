@@ -9,9 +9,14 @@ public class Main {
     int myNum = 15;
     System.out.println(myNum);
 
-    // variable without assigning value and assign value later
+    // variable assigning value later
     int myNumb;
     myNumb = 15;
     System.out.println(myNumb);
+
+    // new value on an existing variable will overwrite the previous value
+    int myNum = 15;
+    myNum = 20;
+    System.out.println(myNum);
   }
 }
