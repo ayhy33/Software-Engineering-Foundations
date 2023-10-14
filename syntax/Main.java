@@ -8,7 +8,7 @@ public class Main {
     System.out.println(This sentence will produce an error);
 
     // print() will not insert a new line at the end of output
-    System.out.print("Hello World!");
+    System.out.print("Hello World! ");
     System.out.print("I will print on the same line.");
   }
 }
