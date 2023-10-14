@@ -15,8 +15,8 @@ public class Main {
     System.out.println(myNumb);
 
     // new value on an existing variable will overwrite the previous value
-    int myNum = 15;
-    myNum = 20;
-    System.out.println(myNum);
+    int num = 15;
+    num = 20;
+    System.out.println(num);
   }
 }
