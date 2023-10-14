@@ -10,8 +10,8 @@ public class Main {
     System.out.println(myNum);
 
     // variable without assigning value and assign value later
-    int myNum;
-    myNum = 15;
-    System.out.println(myNum);
+    int myNumb;
+    myNumb = 15;
+    System.out.println(myNumb);
   }
 }
