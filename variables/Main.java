@@ -18,5 +18,9 @@ public class Main {
     int num = 15;
     num = 20;
     System.out.println(num);
+
+    // use "final" keyword to avoid oversriting existing values
+    final int numb = 15;
+    numb = 20; // this will generate an error
   }
 }
