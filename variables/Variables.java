@@ -1,4 +1,4 @@
-public class Main {
+public class Variables {
   public static void main (String [] args) {
 
     // variable that store text
@@ -22,5 +22,6 @@ public class Main {
     // use "final" keyword to avoid oversriting existing values
     final int numb = 15;
     numb = 20; // this will generate an error
+    
   }
 }
